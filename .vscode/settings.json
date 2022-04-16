@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "makefile": "makefile",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "string_view": "cpp",
+        "cmath": "cpp",
+        "xcomplex": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "cmake.sourceDirectory": "${workspaceFolder}/Digit-Detection"
+}

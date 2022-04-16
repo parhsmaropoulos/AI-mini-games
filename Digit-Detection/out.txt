@@ -1,0 +1,381 @@
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+Added a neuron
+
+Imput number: 1: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 0 0 255 255 0 0 0 255 255 0 0 0 0 0 0 0 0 255 255 0 0 0 0 0 0 0 0 255 255 0 0 0 0 0 0 0 0 255 255 0 0 0 0 0 0 0 0 0 255 0 0 255 0 0 255 0 0 0 255 0 0 255 255 255 255 255 255 255 255 
+Outputs: 0.96973 0.921911 
+Target: 1 0 
+Neural Network average error: 0.961986
+
+Imput number: 2: Inputs: 255 255 255 255 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 0 0 0 255 255 255 255 0 0 255 0 0 0 255 255 255 0 0 0 255 0 0 0 255 255 255 0 0 0 0 0 0 0 0 255 255 0 0 0 0 0 255 0 0 255 0 0 255 0 0 255 255 0 0 0 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.969778 0.912011 
+Target: 1 0 
+Neural Network average error: 0.957256
+
+Imput number: 3: Inputs: 255 255 255 255 255 0 0 255 255 255 255 255 255 255 255 0 0 0 255 255 255 255 0 0 255 0 0 0 255 255 255 0 0 0 255 0 0 0 255 255 255 0 0 0 0 0 0 0 0 255 255 0 0 0 0 0 0 0 0 255 255 0 0 0 0 0 255 0 0 255 255 0 0 0 0 255 255 0 0 255 255 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.96985 0.893531 
+Target: 1 0 
+Neural Network average error: 0.948501
+
+Imput number: 4: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 0 0 255 0 255 255 255 255 255 255 0 0 255 0 255 255 255 255 255 255 0 0 0 0 0 255 255 255 255 255 0 0 0 0 0 255 255 255 255 255 0 0 0 0 0 255 255 255 255 0 0 0 0 255 0 255 255 255 255 0 0 0 0 255 0 0 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.969934 0.863774 
+Target: 1 0 
+Neural Network average error: 0.934615
+
+Imput number: 5: Inputs: 255 255 255 255 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 255 255 255 255 255 0 0 255 0 0 255 255 255 255 255 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 255 255 255 0 255 0 0 255 0 0 255 255 255 255 255 255 255 255 0 0 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.970023 0.815676 
+Target: 1 0 
+Neural Network average error: 0.91275
+
+Imput number: 6: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 0 0 255 0 0 255 255 255 255 255 0 0 255 0 0 0 255 255 255 0 0 0 255 0 0 0 255 255 255 0 0 0 0 0 255 0 255 255 255 0 255 0 0 0 255 0 0 255 0 0 255 255 0 255 255 255 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.970115 0.734664 
+Target: 1 0 
+Neural Network average error: 0.877674
+
+Imput number: 7: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 255 255 0 0 255 255 255 255 255 255 255 255 0 0 255 255 0 0 0 255 255 255 0 0 255 255 0 0 0 255 255 255 0 0 255 255 0 0 0 255 255 255 0 0 255 0 0 255 0 255 255 0 0 0 0 0 0 255 255 255 255 0 0 255 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.970207 0.5942 
+Target: 1 0 
+Neural Network average error: 0.822788
+
+Imput number: 8: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 255 255 255 255 255 0 0 255 0 0 255 255 255 255 255 0 0 255 0 0 255 255 255 255 0 0 255 0 0 0 255 255 255 255 0 0 0 0 0 0 0 255 255 255 0 0 0 0 255 255 0 255 255 255 0 255 255 255 255 255 0 0 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.970299 0.366025 
+Target: 1 0 
+Neural Network average error: 0.753278
+
+Imput number: 9: Inputs: 255 255 255 0 255 255 255 255 255 255 255 255 255 0 255 255 0 255 255 255 255 255 255 0 255 255 0 255 255 255 255 255 0 0 255 0 0 0 255 255 255 255 0 0 255 0 0 0 255 255 255 255 0 0 255 0 0 0 255 255 255 255 0 0 255 0 255 0 255 255 255 255 0 0 0 0 255 0 255 255 255 255 255 255 0 255 255 0 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.970391 0.0907771 
+Target: 1 0 
+Neural Network average error: 0.710323
+
+Imput number: 10: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 0 255 255 255 255 255 255 0 255 255 0 255 255 255 255 255 255 0 255 0 0 255 255 255 255 255 255 0 255 0 0 255 255 255 255 255 0 0 0 0 0 255 255 255 255 255 0 255 0 0 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 255 255 255 0 255 255 
+Outputs: 0.970481 -0.0955916 
+Target: 1 0 
+Neural Network average error: 0.710637
+
+Imput number: 11: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 0 0 0 0 255 255 255 0 0 0 0 0 0 0 255 255 0 0 0 0 0 255 255 0 255 255 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.970572 -0.145674 
+Target: 1 0 
+Neural Network average error: 0.714873
+
+Imput number: 12: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 0 255 255 255 0 0 255 255 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.970661 -0.107554 
+Target: 0 1 
+Neural Network average error: 1.25874
+
+Imput number: 13: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 0 0 0 0 0 0 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 0 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 0 255 255 0 0 0 255 255 255 0 0 255 255 0 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 0 255 255 255 255 0 0 255 255 
+Outputs: 0.969211 0.383396 
+Target: 0 1 
+Neural Network average error: 1.07693
+
+Imput number: 14: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 0 0 0 0 0 0 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 0 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 0 255 255 0 0 0 255 255 255 0 0 255 255 0 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 0 255 255 255 255 0 0 255 255 
+Outputs: 0.966776 0.714699 
+Target: 0 1 
+Neural Network average error: 1.00401
+
+Imput number: 15: Inputs: 255 255 255 255 255 255 255 255 255 255 255 0 0 0 255 255 255 255 255 255 255 0 0 0 0 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 255 255 255 255 255 0 0 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.963506 0.835438 
+Target: 0 1 
+Neural Network average error: 0.988793
+
+Imput number: 16: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 255 255 255 255 255 255 0 255 255 0 255 255 255 255 255 255 0 255 255 0 255 255 255 255 255 255 0 0 255 0 255 255 255 255 255 255 0 0 255 0 0 255 255 255 255 255 0 0 255 255 0 255 255 255 255 255 255 0 255 255 255 255 255 
+Outputs: 0.959352 0.881581 
+Target: 0 1 
+Neural Network average error: 0.983458
+
+Imput number: 17: Inputs: 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 255 255 255 255 255 0 0 255 0 0 0 255 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 0 255 255 255 0 255 255 255 255 0 0 255 255 255 0 255 255 255 255 255 255 255 255 255 0 0 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.954122 0.902059 
+Target: 0 1 
+Neural Network average error: 0.979781
+
+Imput number: 18: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 255 0 0 0 0 0 0 255 255 255 255 255 0 255 255 255 0 255 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 255 0 255 255 255 255 0 0 255 255 255 0 255 255 255 255 255 255 255 255 255 0 0 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.947468 0.91238 
+Target: 0 1 
+Neural Network average error: 0.976057
+
+Imput number: 19: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 255 0 0 0 0 0 255 255 255 255 255 0 255 255 255 0 255 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 255 0 0 255 255 255 255 0 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 
+Outputs: 0.938832 0.918186 
+Target: 0 1 
+Neural Network average error: 0.971622
+
+Imput number: 20: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 0 255 255 255 255 255 0 0 255 255 0 0 255 255 255 255 0 0 255 255 255 0 255 255 255 255 0 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 0 255 255 255 0 255 255 255 255 0 0 255 255 255 0 255 255 255 
+Outputs: 0.92731 0.921822 
+Target: 0 1 
+Neural Network average error: 0.965923
+
+Imput number: 21: Inputs: 255 255 0 0 0 255 255 255 255 255 255 255 0 0 0 0 255 255 255 255 255 255 0 255 255 0 0 255 255 255 255 255 0 255 255 255 0 255 255 255 255 255 0 255 255 255 0 255 255 255 255 255 0 255 255 255 0 255 255 255 255 255 0 255 255 255 0 255 255 255 255 255 0 255 255 255 0 255 255 255 255 255 255 255 255 255 0 255 255 255 255 255 255 255 255 255 255 255 255 255 
+Outputs: 0.911402 0.924355 
+Target: 0 1 
+Neural Network average error: 0.958221
+
+Imput number: 22: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 255 255 255 0 255 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 255 255 255 
+Outputs: 0.888497 0.926298 
+Target: 0 1 
+Neural Network average error: 0.947327
+
+Imput number: 23: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 255 255 255 0 255 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 255 255 255 
+Outputs: 0.85381 0.927909 
+Target: 0 1 
+Neural Network average error: 0.931179
+
+Imput number: 24: Inputs: 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 255 255 255 0 255 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 255 255 255 0 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 0 255 255 255 255 255 255 255 
+Outputs: 0.798179 0.929319 
+Target: 0 1 
+Neural Network average error: 0.906114
+
+Imput number: 25
+Done
